@@ -17,7 +17,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AleksanderBondar&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
+## 📊 WakaTime stats:
+| Project | Time |
+| ------------- | ------------- |
+| MDTX  | [![wakatime](https://wakatime.com/badge/user/0ac58c95-8cfa-4cde-8e5d-a0b150f7cec4/project/adb5aad6-9b70-4f35-af8a-53ca6eb5cbe6.svg?style=social)](https://wakatime.com/@0ac58c95-8cfa-4cde-8e5d-a0b150f7cec4/projects/fabjdmbrej?start=2023-01-30&end=2023-02-05) |
+| BDDX  | [![wakatime](https://wakatime.com/badge/user/0ac58c95-8cfa-4cde-8e5d-a0b150f7cec4/project/49db007b-e669-4817-9a5c-e05f374c2975.svg?style=social)](https://wakatime.com/@0ac58c95-8cfa-4cde-8e5d-a0b150f7cec4/projects/ehubzhmfry?start=2023-01-30&end=2023-02-05) |
+
 ---
+
 [![](https://visitcount.itsvg.in/api?id=AleksanderBondar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+--- 
