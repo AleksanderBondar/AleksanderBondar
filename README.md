@@ -22,7 +22,7 @@
 | ------------- | ------------- |
 | MDTX  | [![wakatime](https://wakatime.com/badge/user/0ac58c95-8cfa-4cde-8e5d-a0b150f7cec4/project/adb5aad6-9b70-4f35-af8a-53ca6eb5cbe6.svg?style=social)](https://wakatime.com/@0ac58c95-8cfa-4cde-8e5d-a0b150f7cec4/projects/fabjdmbrej?start=2023-01-30&end=2023-02-05) |
 | AmnesiaCheat C++ Project | [![wakatime](https://wakatime.com/badge/user/0ac58c95-8cfa-4cde-8e5d-a0b150f7cec4/project/cc8dd742-3fdd-4da5-8f44-40a597297fae.svg?style=social)](https://wakatime.com/badge/user/0ac58c95-8cfa-4cde-8e5d-a0b150f7cec4/project/cc8dd742-3fdd-4da5-8f44-40a597297fae) |
-| R3F-VITE-WORLD | [![wakatime](https://wakatime.com/badge/user/0ac58c95-8cfa-4cde-8e5d-a0b150f7cec4/project/0fd4b92e-abe2-4660-ba3d-34372020fab5.svg?style=social))](https://wakatime.com/badge/user/0ac58c95-8cfa-4cde-8e5d-a0b150f7cec4/project/0fd4b92e-abe2-4660-ba3d-34372020fab5) |
+| R3F-VITE-WORLD | [![wakatime](https://wakatime.com/badge/user/0ac58c95-8cfa-4cde-8e5d-a0b150f7cec4/project/0fd4b92e-abe2-4660-ba3d-34372020fab5.svg?style=social)](https://wakatime.com/badge/user/0ac58c95-8cfa-4cde-8e5d-a0b150f7cec4/project/0fd4b92e-abe2-4660-ba3d-34372020fab5) |
 | BDDX  | [![wakatime](https://wakatime.com/badge/user/0ac58c95-8cfa-4cde-8e5d-a0b150f7cec4/project/49db007b-e669-4817-9a5c-e05f374c2975.svg?style=social)](https://wakatime.com/@0ac58c95-8cfa-4cde-8e5d-a0b150f7cec4/projects/ehubzhmfry?start=2023-01-30&end=2023-02-05) |
 
 ---
