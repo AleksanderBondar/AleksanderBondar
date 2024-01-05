@@ -20,6 +20,7 @@
 ## 📊 WakaTime stats:
 | Project | Time |
 | ------------- | ------------- |
+| Vendure Storefront NextJS  | [![wakatime](https://wakatime.com/badge/user/0ac58c95-8cfa-4cde-8e5d-a0b150f7cec4/project/018c4887-b352-4933-8d79-173a8f42592b.svg?style=social)](https://wakatime.com/badge/user/0ac58c95-8cfa-4cde-8e5d-a0b150f7cec4/project/018c4887-b352-4933-8d79-173a8f42592b) |
 | MDTX  | [![wakatime](https://wakatime.com/badge/user/0ac58c95-8cfa-4cde-8e5d-a0b150f7cec4/project/adb5aad6-9b70-4f35-af8a-53ca6eb5cbe6.svg?style=social)](https://wakatime.com/@0ac58c95-8cfa-4cde-8e5d-a0b150f7cec4/projects/fabjdmbrej?start=2023-01-30&end=2023-02-05) |
 | AmnesiaCheat C++ Project | [![wakatime](https://wakatime.com/badge/user/0ac58c95-8cfa-4cde-8e5d-a0b150f7cec4/project/cc8dd742-3fdd-4da5-8f44-40a597297fae.svg?style=social)](https://wakatime.com/badge/user/0ac58c95-8cfa-4cde-8e5d-a0b150f7cec4/project/cc8dd742-3fdd-4da5-8f44-40a597297fae) |
 | R3F-VITE-WORLD | [![wakatime](https://wakatime.com/badge/user/0ac58c95-8cfa-4cde-8e5d-a0b150f7cec4/project/0fd4b92e-abe2-4660-ba3d-34372020fab5.svg?style=social)](https://wakatime.com/badge/user/0ac58c95-8cfa-4cde-8e5d-a0b150f7cec4/project/0fd4b92e-abe2-4660-ba3d-34372020fab5) |
